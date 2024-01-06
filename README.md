@@ -46,5 +46,4 @@ To run the notebooks, you will need to install the following Python libraries:
 2. scipy.stats: For statistical functions and tests
     [scipy.stats documentation](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
-3. pandas: For data manipulation and analysis
-    [Reference: pandas documentation](https://pandas.pydata.org/docs/)
+3. pandas
