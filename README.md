@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg" />
+
 # Machine Learning and Statistics (2023/24) Coursework
 
 This repository contains the coursework assignments for the Machine Learning and Statistics course offered in the 2023/24 academic year. The coursework consists of two Jupyter notebooks:
@@ -18,8 +20,6 @@ This notebook is dedicated to the coursework project, which focuses on supervise
 2. Sepal width (cm)
 3. Petal length (cm)
 4. Petal width (cm)
-
-<img src='https://i.pinimg.com/originals/d0/13/80/d0138020233e0faf1faf899c1f3507c8.png'>
 
 **Prerequisites for Running the Notebooks**
 
